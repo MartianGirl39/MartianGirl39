@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jennifer Forse. I am learning with TEch Elevator. I am looking to collaborate on fullstack projects that use Vue, React, SpringBoot, Node, Flask, or Django. You can reach me at forsejennyb@gmail.com. She/Her/Hers.
+My name is Jennifer Forse. I am learning Web Development with Java and Spring Boot at Tech Elevator. I am looking to collaborate on fullstack projects that use Vue, React, SpringBoot, Node, Flask, or Django. You can reach me at forsejennyb@gmail.com. She/Her/Hers.
